@@ -16,7 +16,7 @@ public class INF2015 {
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.print("!");
+        System.out.print("!!!");
         // TODO code application logic here
     }
     
